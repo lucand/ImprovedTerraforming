@@ -6,8 +6,8 @@ terraform_link = {
 	from = "pc_continental"
 	to = "pc_desert"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -18,8 +18,8 @@ terraform_link = {
 	from = "pc_continental"
 	to = "pc_arid"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -30,8 +30,8 @@ terraform_link = {
 	from = "pc_continental"
 	to = "pc_savannah"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -42,8 +42,8 @@ terraform_link = {
 	from = "pc_continental"
 	to = "pc_arctic"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -54,8 +54,8 @@ terraform_link = {
 	from = "pc_continental"
 	to = "pc_tundra"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -66,8 +66,8 @@ terraform_link = {
 	from = "pc_continental"
 	to = "pc_alpine"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -82,8 +82,8 @@ terraform_link = {
 	from = "pc_tropical"
 	to = "pc_desert"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -94,8 +94,8 @@ terraform_link = {
 	from = "pc_tropical"
 	to = "pc_arid"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -106,8 +106,8 @@ terraform_link = {
 	from = "pc_tropical"
 	to = "pc_savannah"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -118,8 +118,8 @@ terraform_link = {
 	from = "pc_tropical"
 	to = "pc_arctic"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -130,8 +130,8 @@ terraform_link = {
 	from = "pc_tropical"
 	to = "pc_tundra"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -142,8 +142,8 @@ terraform_link = {
 	from = "pc_tropical"
 	to = "pc_alpine"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -158,8 +158,8 @@ terraform_link = {
 	from = "pc_ocean"
 	to = "pc_desert"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -170,8 +170,8 @@ terraform_link = {
 	from = "pc_ocean"
 	to = "pc_arid"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -182,8 +182,8 @@ terraform_link = {
 	from = "pc_ocean"
 	to = "pc_savannah"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -194,8 +194,8 @@ terraform_link = {
 	from = "pc_ocean"
 	to = "pc_arctic"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -206,8 +206,8 @@ terraform_link = {
 	from = "pc_ocean"
 	to = "pc_tundra"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -218,8 +218,8 @@ terraform_link = {
 	from = "pc_ocean"
 	to = "pc_alpine"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -234,8 +234,8 @@ terraform_link = {
 	from = "pc_arid"
 	to = "pc_tropical"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -246,8 +246,8 @@ terraform_link = {
 	from = "pc_arid"
 	to = "pc_continental"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -258,8 +258,8 @@ terraform_link = {
 	from = "pc_arid"
 	to = "pc_ocean"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -270,8 +270,8 @@ terraform_link = {
 	from = "pc_arid"
 	to = "pc_arctic"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -282,8 +282,8 @@ terraform_link = {
 	from = "pc_arid"
 	to = "pc_tundra"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -294,8 +294,8 @@ terraform_link = {
 	from = "pc_arid"
 	to = "pc_alpine"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -310,8 +310,8 @@ terraform_link = {
 	from = "pc_desert"
 	to = "pc_tropical"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -322,8 +322,8 @@ terraform_link = {
 	from = "pc_desert"
 	to = "pc_continental"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -334,8 +334,8 @@ terraform_link = {
 	from = "pc_desert"
 	to = "pc_ocean"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -346,8 +346,8 @@ terraform_link = {
 	from = "pc_desert"
 	to = "pc_arctic"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -358,8 +358,8 @@ terraform_link = {
 	from = "pc_desert"
 	to = "pc_tundra"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -370,8 +370,8 @@ terraform_link = {
 	from = "pc_desert"
 	to = "pc_alpine"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -386,8 +386,8 @@ terraform_link = {
 	from = "pc_savannah"
 	to = "pc_tropical"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -398,8 +398,8 @@ terraform_link = {
 	from = "pc_savannah"
 	to = "pc_continental"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -410,8 +410,8 @@ terraform_link = {
 	from = "pc_savannah"
 	to = "pc_ocean"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -422,8 +422,8 @@ terraform_link = {
 	from = "pc_savannah"
 	to = "pc_arctic"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -434,8 +434,8 @@ terraform_link = {
 	from = "pc_savannah"
 	to = "pc_tundra"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -446,8 +446,8 @@ terraform_link = {
 	from = "pc_savannah"
 	to = "pc_alpine"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -462,8 +462,8 @@ terraform_link = {
 	from = "pc_arctic"
 	to = "pc_tropical"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -474,8 +474,8 @@ terraform_link = {
 	from = "pc_arctic"
 	to = "pc_continental"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -486,8 +486,8 @@ terraform_link = {
 	from = "pc_arctic"
 	to = "pc_ocean"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -498,8 +498,8 @@ terraform_link = {
 	from = "pc_arctic"
 	to = "pc_arid"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -510,8 +510,8 @@ terraform_link = {
 	from = "pc_arctic"
 	to = "pc_desert"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -522,8 +522,8 @@ terraform_link = {
 	from = "pc_arctic"
 	to = "pc_savannah"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -538,8 +538,8 @@ terraform_link = {
 	from = "pc_tundra"
 	to = "pc_tropical"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -550,8 +550,8 @@ terraform_link = {
 	from = "pc_tundra"
 	to = "pc_continental"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -562,8 +562,8 @@ terraform_link = {
 	from = "pc_tundra"
 	to = "pc_ocean"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -574,8 +574,8 @@ terraform_link = {
 	from = "pc_tundra"
 	to = "pc_arid"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -586,8 +586,8 @@ terraform_link = {
 	from = "pc_tundra"
 	to = "pc_desert"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -598,8 +598,8 @@ terraform_link = {
 	from = "pc_tundra"
 	to = "pc_savannah"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -614,8 +614,8 @@ terraform_link = {
 	from = "pc_alpine"
 	to = "pc_tropical"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -626,8 +626,8 @@ terraform_link = {
 	from = "pc_alpine"
 	to = "pc_continental"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -638,8 +638,8 @@ terraform_link = {
 	from = "pc_alpine"
 	to = "pc_ocean"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -650,8 +650,8 @@ terraform_link = {
 	from = "pc_alpine"
 	to = "pc_arid"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -662,8 +662,8 @@ terraform_link = {
 	from = "pc_alpine"
 	to = "pc_desert"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
@@ -674,8 +674,8 @@ terraform_link = {
 	from = "pc_alpine"
 	to = "pc_savannah"
 	
-	energy = 5000
-	duration = 3600
+	energy = 3000
+	duration = 720
 	
 	condition = {
 		has_technology = "tech_atmospheric_manipulation"
